@@ -19,7 +19,7 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6q0059_000-T.yaml, hash: 'sha256:a9a5f2843c53ae595119abdc0b4043f80d7a27ffe77d7703985f6f0f7e28d71c'}
+  - {seq: 0, filename: KR6q0059_000-T.yaml, hash: 'sha256:c188c0458b2ad6abeffa00f5ea43f892f118c859755dc8a5461b0f80d2b821f0'}
   - {seq: 1, filename: KR6q0059_001-T.yaml, hash: 'sha256:365f24a1ac79572ce71398ce553e30c53b1650ea1f175230eb1b284650c52f8a'}
   - {seq: 2, filename: KR6q0059_002-T.yaml, hash: 'sha256:eff26e5e461db89297b0fb59ec990a974b77a48e38a40be95ac75f60de362f8f'}
   - {seq: 3, filename: KR6q0059_003-T.yaml, hash: 'sha256:cbbb9ed182dab915004208a45ac0dfaea0dca8b70c49d7a99b6aadb3268b8b0d'}
@@ -41,7 +41,7 @@ assets:
   - {seq: 19, filename: KR6q0059_019-T.yaml, hash: 'sha256:11dc1885ab6b82f165d24098d9a634a618ffd0d282a2934417020021e3ef32e2'}
   - {seq: 20, filename: KR6q0059_020-T.yaml, hash: 'sha256:d5cb9c853b9f9b0a6dce0ecb69255e91170ef1a21f16f99e49eead9ede59012f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0059_000-T.markers.yaml, hash: 'sha256:cefbcedec562e888ee39fb793217ed6272886742950e44d87443024b3bd0e010'}
+  - {seq: 0, role: markers, filename: assets/KR6q0059_000-T.markers.yaml, hash: 'sha256:1368e5d78fdb4e4439c44847ac7626a4f77cc970c70b40dde0cc0ac0ca4c7a54'}
   - {seq: 1, role: markers, filename: assets/KR6q0059_001-T.markers.yaml, hash: 'sha256:6e1cec6f90181bc783f18bd4115b5723bacdd5af4a64d84eb0d41a9a6885b43e'}
   - {seq: 2, role: markers, filename: assets/KR6q0059_002-T.markers.yaml, hash: 'sha256:e305aec3c47b67efb97fb295d4add48bd454e4b117563b671455e5255d011538'}
   - {seq: 3, role: markers, filename: assets/KR6q0059_003-T.markers.yaml, hash: 'sha256:f5bab448d6888a7c7472f4b09e5d4f1a1fd5afee4124486fa6b6c6952a442e67'}
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0059_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 圓悟佛果禪師語錄序
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0059_T_000-mulu-2
     span:
-    - front
+    - body
     - 549
     - 549
   label: 張浚序
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0059_T_000-mulu-3
     span:
-    - front
+    - body
     - 806
     - 806
   label: 圓悟佛果禪師語錄目錄
@@ -1643,4 +1643,4 @@ table_of_contents:
   label: 為亡僧下火
   type: mulu
   level: 1
-hash: sha256:b6319469e7323f6e63d75d772ad17a20861c3d530b8b3221b73f1dbda8310b8c
+hash: sha256:12810e6ccec0a9b220b70297dc874bf48e68a5a612f639c3d4400e9f1836709c
